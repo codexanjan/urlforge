@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <!-- Outer rounded square container -->
+  <rect width="64" height="64" rx="16" fill="url(#brandGradMark)" />
+  
+  <!-- Link Chain Left Loop -->
+  <path d="M24 26H20C16.6863 26 14 28.6863 14 32C14 35.3137 16.6863 38 20 38H24" stroke="#FFFFFF" stroke-width="3.5" stroke-linecap="round" />
+  
+  <!-- Link Chain Right Loop -->
+  <path d="M40 26H44C47.3137 26 50 28.6863 50 32C50 35.3137 47.3137 38 44 38H40" stroke="#FFFFFF" stroke-width="3.5" stroke-linecap="round" />
+  
+  <!-- Shortened Slash / Forge Spark Beam -->
+  <path d="M37 20L27 44" stroke="#38BDF8" stroke-width="3.5" stroke-linecap="round" />
+  
+  <!-- Spark Connection Nodes -->
+  <circle cx="37" cy="20" r="2.5" fill="#FDE047" />
+  <circle cx="27" cy="44" r="2.5" fill="#38BDF8" />
+
+  <defs>
+    <linearGradient id="brandGradMark" x1="0" y1="0" x2="64" y2="64" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#4F46E5" />
+      <stop offset="1" stop-color="#0284C7" />
+    </linearGradient>
+  </defs>
+</svg>

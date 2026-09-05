@@ -1,0 +1,15 @@
+User-agent: *
+Allow: /
+Allow: /login
+Allow: /register
+Allow: /privacy
+Allow: /terms
+Allow: /report
+Disallow: /dashboard
+Disallow: /links
+Disallow: /analytics
+Disallow: /api
+Disallow: /settings
+Disallow: /admin
+
+Sitemap: https://urlforge.app/sitemap.xml

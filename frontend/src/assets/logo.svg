@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 64" fill="none">
+  <!-- URLForge Logo Mark -->
+  <g transform="translate(8, 8)">
+    <!-- Outer forge hexagon/shield subtle shape -->
+    <rect width="48" height="48" rx="12" fill="url(#brandGrad)" />
+    
+    <!-- Link Chain Left Loop -->
+    <path d="M18 20H15C12.7909 20 11 21.7909 11 24C11 26.2091 12.7909 28 15 28H18" stroke="#FFFFFF" stroke-width="2.75" stroke-linecap="round" />
+    
+    <!-- Link Chain Right Loop -->
+    <path d="M30 20H33C35.2091 20 37 21.7909 37 24C37 26.2091 35.2091 28 33 28H30" stroke="#FFFFFF" stroke-width="2.75" stroke-linecap="round" />
+    
+    <!-- Shortened Slash / Forge Spark Beam -->
+    <path d="M28 15L20 33" stroke="#38BDF8" stroke-width="2.75" stroke-linecap="round" />
+    
+    <!-- Spark Connection Nodes -->
+    <circle cx="28" cy="15" r="2" fill="#FDE047" />
+    <circle cx="20" cy="33" r="2" fill="#38BDF8" />
+  </g>
+
+  <!-- Wordmark "URLForge" -->
+  <text x="68" y="35" font-family="'Inter', -apple-system, BlinkMacSystemFont, sans-serif" font-size="24" font-weight="800" letter-spacing="-0.03em" fill="currentColor">
+    URL<tspan fill="#6366F1">Forge</tspan>
+  </text>
+  <text x="68" y="49" font-family="'Inter', -apple-system, BlinkMacSystemFont, sans-serif" font-size="9" font-weight="600" letter-spacing="0.12em" fill="#64748B" text-transform="uppercase">
+    Smart Link Infrastructure
+  </text>
+
+  <defs>
+    <linearGradient id="brandGrad" x1="0" y1="0" x2="48" y2="48" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#4F46E5" />
+      <stop offset="1" stop-color="#0284C7" />
+    </linearGradient>
+  </defs>
+</svg>

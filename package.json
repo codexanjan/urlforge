@@ -1,0 +1,21 @@
+{
+  "name": "urlforge",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Short links. Smart analytics. Total control. Production-style full-stack URL shortener.",
+  "scripts": {
+    "build": "npm --prefix frontend run build",
+    "dev": "npm --prefix frontend run dev"
+  },
+  "keywords": [
+    "url-shortener",
+    "fastapi",
+    "react",
+    "analytics",
+    "qr-code",
+    "vite",
+    "typescript"
+  ],
+  "author": "Anjan Shetty",
+  "license": "MIT"
+}
