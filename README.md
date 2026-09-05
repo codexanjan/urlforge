@@ -1,6 +1,9 @@
 # URLForge — Short links. Smart analytics. Total control.
 
-URLForge is a modern developer-SaaS platform for URL shortening, custom branded aliases, high-resolution vector QR codes, and privacy-first analytics telemetry with real-time bot detection.
+> **Live Production Deployment**: [https://frontend-neon-chi-41.vercel.app](https://frontend-neon-chi-41.vercel.app)  
+> **GitHub Repository**: [https://github.com/codexanjan/urlforge](https://github.com/codexanjan/urlforge)
+
+URLForge is a modern developer-SaaS platform for URL shortening, custom branded aliases, high-resolution vector QR codes, and privacy-first analytics telemetry with real-time bot detection. Fully unlocked in zero-auth open platform mode with rich pre-populated links and complete analytics data.
 
 Built with **FastAPI**, **SQLAlchemy 2.0**, **PostgreSQL / SQLite**, **Alembic**, **React 19**, **TypeScript**, **Tailwind CSS**, and **Recharts**.
 
