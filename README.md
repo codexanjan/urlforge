@@ -1,9 +1,27 @@
-# URLForge — Short links. Smart analytics. Total control.
+<div align="center">
+
+# 🔗 URLForge — Short links. Smart analytics. Total control.
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-6366f1?style=for-the-badge&logo=vercel&logoColor=white)](https://frontend-neon-chi-41.vercel.app)
+[![FastAPI](https://img.shields.io/badge/FastAPI-0.115+-009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
+[![React 19](https://img.shields.io/badge/React-19.0-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.5+-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
+[![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-3.4+-38B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com)
+[![Docker](https://img.shields.io/badge/Docker-Ready-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
+
+<br />
+
+<p align="center">
+  <img src="assets/preview.png" alt="URLForge Platform Preview" width="100%" style="border-radius: 12px; box-shadow: 0 12px 40px rgba(0,0,0,0.5);" />
+</p>
 
 > **Live Production Deployment**: [https://frontend-neon-chi-41.vercel.app](https://frontend-neon-chi-41.vercel.app)  
 > **GitHub Repository**: [https://github.com/codexanjan/urlforge](https://github.com/codexanjan/urlforge)
 
-URLForge is a modern developer-SaaS platform for URL shortening, custom branded aliases, high-resolution vector QR codes, and privacy-first analytics telemetry with real-time bot detection. Fully unlocked in zero-auth open platform mode with rich pre-populated links and complete analytics data.
+</div>
+
+URLForge is an enterprise-grade developer-SaaS platform for URL shortening, custom branded vanity links, high-resolution vector QR codes, and privacy-first analytics telemetry with real-time bot detection. Fully unlocked in zero-auth open platform mode with rich pre-populated links and complete analytics data.
 
 Built with **FastAPI**, **SQLAlchemy 2.0**, **PostgreSQL / SQLite**, **Alembic**, **React 19**, **TypeScript**, **Tailwind CSS**, and **Recharts**.
 
